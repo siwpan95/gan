@@ -1,5 +1,7 @@
 # gan
 
+> 仓库：<https://gitee.com/siwpan/gan> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
+
 基于多种经典模型混合的**随机视频生成器**：用马尔可夫链、元胞自动机（Gray-Scott）、CNN / RNN / GNN 逐帧合成视频画面。
 
 ## 语言 / 类型
